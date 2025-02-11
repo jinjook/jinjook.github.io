@@ -198,5 +198,7 @@ html {
 
 #project2Img img {
   width: 700px;
-  margin: 30px 350px;
+  margin-left: 350px;
+  padding-top: 20px;
+  padding-bottom: 30px;
 }
