@@ -13,7 +13,7 @@ html {
 
 .page h4 {
   font-size: 4rem;
-  margin: 30px 20px 0 350px;
+  margin: 30px 20px 0 300px;
 }
 
 #bar {
@@ -22,7 +22,7 @@ html {
   justify-content: space-between;
   align-items: center;
   position: fixed;
-  width: 300px;
+  width: 280px;
   height: 100%;
   background-color: black;
   font-family: "Space Grotesk", serif;
@@ -41,7 +41,7 @@ html {
 }
 
 #menu a {
-  font-size: 2.2rem;
+  font-size: 2rem;
   z-index: 1;
 }
 
@@ -96,7 +96,7 @@ html {
 
 #profileDetail {
   font-family: "Poor Story", serif;
-  margin: 150px 0 0 100px;
+  margin: 120px 40px 0 100px;
   display: flex;
   flex-direction: column;
   width: 750px;
@@ -131,7 +131,8 @@ html {
 
 #project1 div {
   font-family: "Poor Story", serif;
-  margin-right: 30px;
+  font-size: 0.9rem;
+  padding-right: 15px;
 }
 
 #project1 p {
@@ -152,11 +153,11 @@ html {
 
 #project1Detail {
   display: flex;
-  margin-left: 350px;
+  margin-left: 300px;
 }
 
 #project1Img img {
-  width: 500px;
+  width: 650px;
   margin: 20px 0 10px 350px;
 }
 
@@ -167,7 +168,8 @@ html {
 
 #project2 div {
   font-family: "Poor Story", serif;
-  margin-right: 30px;
+  font-size: 0.9rem;
+  padding-right: 25px;
 }
 
 #project2 p {
@@ -193,10 +195,10 @@ html {
 
 #project2Detail {
   display: flex;
-  margin-left: 350px;
+  margin-left: 300px;
 }
 
 #project2Img img {
-  width: 500px;
+  width: 600px;
   margin: 20px 0 10px 350px;
 }
