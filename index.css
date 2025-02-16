@@ -161,6 +161,10 @@ html {
   margin: 20px 0 10px 350px;
 }
 
+#project1Img a {
+  padding-left: 30px;
+}
+
 #project2 {
   display: flex;
   flex-direction: column;
@@ -201,4 +205,8 @@ html {
 #project2Img img {
   width: 600px;
   margin: 20px 0 10px 350px;
+}
+
+#project2Img a {
+  padding-left: 30px;
 }
